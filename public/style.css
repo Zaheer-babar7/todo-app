@@ -1,0 +1,51 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body{
+        background-image: linear-gradient(to right, #FBD3E9, #BB377D);
+    }
+
+    .box{
+        background-color: wheat;
+        width: 500px;
+        margin: 0 auto;
+        height: 500px;
+        margin-top: 50px !important;
+        overflow-y: scroll;
+    }
+
+    .my-button{
+        /* margin-left: 90px; */
+        width: 100%;
+    }
+
+    h1{
+        color: white;
+        display: flex;
+        justify-content: flex-end;
+        padding: 10px;
+    }
+
+    .list{
+        margin: 0 auto;
+        
+    }
+
+    input{
+        width: 220px !important; 
+        padding: 5px !important;
+        margin: 20px !important;
+    }
+
+
+    .lists{
+    list-style-type: none;
+    padding: 10px;
+    font-size: 20px;    
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
